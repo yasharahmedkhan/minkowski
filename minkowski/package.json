@@ -1,0 +1,17 @@
+{
+    "name": "minkowski-visualizer",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "d3": "^7.8.5",
+      "next": "13.4.19",
+      "react": "18.2.0",
+      "react-dom": "18.2.0"
+    }
+  }
+  
+  
