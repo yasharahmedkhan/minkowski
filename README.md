@@ -1,1 +1,1 @@
-Web App to simulate special relativity through the context of Minkowski diagrams.
+Web-based Application that is intended to enhance the understanding of Minkowski Diagrams. Users are able to visualize Lorentz Transformations, Area Transformations and Energy Density Transformations for both spacetime and Electromagnetic Minkowski Diagrams. Serves as an aid to my undergraduate thesis, "Geometric Visualization of Electromagnetic Field Transformations on Minkowski Diagrams".
